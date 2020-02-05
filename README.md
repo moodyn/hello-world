@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+Moodyn here. I'm a female programmer. and I'm just started now.
